@@ -53,7 +53,9 @@
     "react-native-web": "~0.19.13",
     "react-native-webview": "13.12.5",
     "react-router-dom": "^7.4.0",
-    "three": "^0.166.1"
+    "three": "^0.166.1",
+    "expo-dev-client": "~5.0.20",
+    "expo-speech": "~13.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
